@@ -37,7 +37,7 @@ $interested_properties = mysqli_fetch_all($result_2, MYSQLI_ASSOC);
 
 <head>
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Dashboard | PG Life</title>
+    <title>Dashboard | HotelDekho</title>
 
     <?php
     include "includes/head_links.php";
